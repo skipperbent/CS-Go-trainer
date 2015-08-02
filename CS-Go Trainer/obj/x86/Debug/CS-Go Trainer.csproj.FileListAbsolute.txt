@@ -1,0 +1,5 @@
+D:\Visual Studio\CS-Go trainer\CS-Go Trainer\bin\x86\Debug\CS-GO Trainer.exe
+D:\Visual Studio\CS-Go trainer\CS-Go Trainer\bin\x86\Debug\CS-GO Trainer.pdb
+D:\Visual Studio\CS-Go trainer\CS-Go Trainer\obj\x86\Debug\CS-GO Trainer.exe
+D:\Visual Studio\CS-Go trainer\CS-Go Trainer\obj\x86\Debug\CS-GO Trainer.pdb
+D:\Visual Studio\CS-Go trainer\CS-Go Trainer\obj\x86\Debug\CS-Go Trainer.csprojResolveAssemblyReference.cache
