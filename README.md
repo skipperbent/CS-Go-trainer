@@ -1,4 +1,4 @@
-# Counterstrike GO trainer
+# Counter-strike Go trainer
 Simple CS:Go trainer that enables custom health that will be enabled on each round or GOD mode.
 
 ## Downloads
